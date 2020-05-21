@@ -1,0 +1,87 @@
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02'
+INFO  time: initialize in 2.04s
+WARN  no build tool detected in workspace 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\Exercise02.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\Exercise02.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02'
+INFO  time: initialize in 1.71s
+WARN  no build tool detected in workspace 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\Exercise02.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 99)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 92)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 93)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 95)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 97)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 97)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 86, 86, 97)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 161)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 155)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 157)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 156)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 155)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 156)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 157)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 159)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 159)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 148, 148, 159)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02'
+INFO  time: initialize in 2.19s
+WARN  no build tool detected in workspace 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex02\Exercise02.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex02sol\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\Exercise02.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1024)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1017)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1018)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1020)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1022)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1022)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1022)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala in Set[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex02/package.scala, 1011, 1011, 1022)
+???. 03, 2020 5:46:59 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 509
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+???. 03, 2020 6:00:50 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 334, count -5, length 2201
+java.lang.StringIndexOutOfBoundsException: offset 334, count -5, length 2201
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+INFO  shutting down Metals

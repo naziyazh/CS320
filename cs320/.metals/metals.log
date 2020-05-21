@@ -1,0 +1,696 @@
+INFO  started: Metals version 0.8.1 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2s
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\Exercise01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\Homework.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.1 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 1.91s
+INFO  skipping build import with status 'Requested'
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.1 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.48s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\Homework.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\Main.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\Homework.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\Exercise01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex01/package.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex01/package.scala, 491, 491, 500)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\Exercise01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex01/Exercise01.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex01/Exercise01.scala, 290, 290, 299)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 3.81s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\Exercise01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex01/Exercise01.scala in Int => IntRangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex01/Exercise01.scala, 249, 253, 259)
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.27s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex01\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\Exercise01.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\ex01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\ex01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex01\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.07s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.22s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala' because it doesn't belong to a build target.
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala, 520, 520, 529)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex02sol\ex02\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala, 520, 520, 529)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala, 520, 520, 529)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/package.scala, 520, 520, 529)
+???. 06, 2020 10:48:45 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2321
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex02sol\ex02\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/Exercise03.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/Exercise03.scala, 1986, 1986, 1995)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/Exercise03.scala in List[Int]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex03/ex03/Exercise03.scala, 1986, 1986, 1995)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.33s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 3.27s
+INFO  skipping build import with status 'Requested'
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 1.89s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 1.83s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex02\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 1230, 1230, 1242)
+???. 23, 2020 7:17:38 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 211, count -2, length 1115
+java.lang.StringIndexOutOfBoundsException: offset 211, count -2, length 1115
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+???. 23, 2020 7:17:48 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 229, count -2, length 1133
+java.lang.StringIndexOutOfBoundsException: offset 229, count -2, length 1133
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+???. 23, 2020 7:18:40 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 422, count -2, length 1188
+java.lang.StringIndexOutOfBoundsException: offset 422, count -2, length 1188
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 752, 752, 769)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 661, 661, 673)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 752, 752, 769)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 939, 939, 957)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 939, 939, 957)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 752, 752, 769)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\Exercise03.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 581, 581, 591)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 581, 581, 591)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 581, 581, 591)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 581, 581, 591)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex05sol\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 2950, 2950, 2968)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex05sol\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.52s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+???. 25, 2020 4:41:10 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+???. 25, 2020 4:55:54 ?? scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+???. 25, 2020 4:55:54 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex05sol\package.scala
+???. 25, 2020 4:57:59 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 479, count -2, length 1825
+java.lang.StringIndexOutOfBoundsException: offset 479, count -2, length 1825
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.72s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+INFO  no build target: using presentation compiler with only scala-library
+???. 27, 2020 3:27:20 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 502, count -2, length 1847
+java.lang.StringIndexOutOfBoundsException: offset 502, count -2, length 1847
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+???. 27, 2020 3:28:11 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 548, count -2, length 1893
+java.lang.StringIndexOutOfBoundsException: offset 548, count -2, length 1893
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex05sol\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 3.23s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.04s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\ex05sol\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+??? 01, 2020 12:44:16 ?? scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1475, count -1, length 4211
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[Project01.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 763, 763, 773)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[Project01.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 2333, 2333, 2344)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[Project01.this.FunDef]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1286, 1286, 1298)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+??? 01, 2020 2:55:15 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7201
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 2468, 2468, 2480)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[Project01.this.FunDef]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1286, 1286, 1298)
+??? 01, 2020 2:28:26 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8271
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+??? 01, 2020 5:21:35 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13042
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[Project01.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1374, 1374, 1384)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/package.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/package.scala, 4173, 4173, 4185)
+??? 02, 2020 12:07:18 ?? scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 4189, count -6, length 6955
+java.lang.StringIndexOutOfBoundsException: offset 4189, count -6, length 6955
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3092)
+	at java.base/java.lang.String.rangeCheck(String.java:279)
+	at java.base/java.lang.String.<init>(String.java:275)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\AppData\Local\Temp\Rar$DIa11952.48714\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[Project01.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 2333, 2333, 2344)
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+??? 02, 2020 1:05:04 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15317
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.51s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 2.1s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+??? 05, 2020 2:05:44 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+??? 05, 2020 2:05:44 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+INFO  time: initialize in 3.01s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex06\Exercise06.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 939, 939, 957)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Value]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 939, 939, 957)
+WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/proj01/Project01.scala, 1203, 1203, 1215)
+2020.05.12 20:02:19 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+2020.05.12 20:02:23 INFO  time: initialize in 3.44s
+2020.05.12 20:02:28 INFO  skipping build import with status 'Requested'
+2020.05.12 20:02:28 INFO  no build target: using presentation compiler with only scala-library
+2020.05.12 20:02:33 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala
+??? 12, 2020 8:02:33 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+??? 12, 2020 8:02:33 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2020.05.12 20:02:33 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\Project01.scala' because it doesn't belong to a build target.
+2020.05.12 20:02:33 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\proj01\package.scala
+??? 12, 2020 8:02:33 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+??? 12, 2020 8:02:33 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2020.05.12 20:02:37 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.12 20:02:38 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.12 20:04:21 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.12 20:04:40 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala' because it doesn't belong to a build target.
+2020.05.12 20:04:40 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.12 20:07:11 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+2020.05.12 20:07:11 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 934, 934, 948)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 934, 934, 941)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 934, 934, 942)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 934, 934, 946)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 934, 934, 946)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 934, 934, 946)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 977)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 970)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 971)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 970)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 971)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 972)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 973)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 972)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 973)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 973)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 973)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 973)
+2020.05.12 20:11:13 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala' because it doesn't belong to a build target.
+2020.05.12 20:11:13 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 983)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 984)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 977)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,<error>]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 978)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 980)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 963, 963, 980)
+2020.05.12 20:18:32 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala' because it doesn't belong to a build target.
+2020.05.12 20:18:32 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+??? 12, 2020 8:22:35 ?? scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1396, count -1, length 4005
+2020.05.12 22:00:25 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+??? 12, 2020 10:21:08 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2135
+2020.05.12 22:47:37 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 581, 581, 591)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 680, 680, 690)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 680, 680, 690)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 680, 680, 690)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 1066, 1066, 1083)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in Map[String,Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 702, 702, 719)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala in List[Exercise05.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/Exercise05.scala, 680, 680, 690)
+2020.05.12 23:26:45 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala' because it doesn't belong to a build target.
+2020.05.12 23:27:16 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+2020.05.12 23:27:20 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/package.scala in List[cs320.ex05.package.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/package.scala, 1586, 1586, 1596)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/package.scala in Map[String,cs320.ex05.package.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/ex05/package.scala, 1596, 1596, 1613)
+2020.05.12 23:41:38 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala' because it doesn't belong to a build target.
+2020.05.12 23:41:38 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+2020.05.12 23:44:58 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.12 23:45:34 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.12 23:55:23 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.12 23:55:23 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.12 23:56:29 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.12 23:56:42 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.12 23:56:44 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.13 00:34:55 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.13 01:13:05 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.13 01:15:24 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.13 01:42:24 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.13 02:18:56 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.13 02:18:56 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.13 18:58:04 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+2020.05.13 18:58:08 INFO  time: initialize in 3.34s
+2020.05.13 18:58:13 INFO  skipping build import with status 'Requested'
+2020.05.13 18:58:13 INFO  no build target: using presentation compiler with only scala-library
+2020.05.13 18:58:18 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.13 19:17:05 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+2020.05.14 21:32:18 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.15 01:39:01 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+2020.05.15 01:39:04 INFO  time: initialize in 3.54s
+2020.05.15 01:39:09 INFO  skipping build import with status 'Requested'
+2020.05.15 01:39:09 INFO  no build target: using presentation compiler with only scala-library
+2020.05.15 01:39:15 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+??? 15, 2020 1:39:15 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+??? 15, 2020 1:39:15 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+??? 15, 2020 1:39:15 ?? org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2020.05.15 01:39:17 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 01:39:17 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 01:39:35 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+2020.05.15 01:39:56 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala' because it doesn't belong to a build target.
+2020.05.15 01:41:11 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in Map[String,Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 1038, 1038, 1055)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in Map[String,Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 1038, 1038, 1055)
+2020.05.15 01:41:39 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala' because it doesn't belong to a build target.
+2020.05.15 01:41:39 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 01:43:15 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in List[Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 1011, 1011, 1021)
+2020.05.15 02:34:13 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.15 02:34:17 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 02:34:22 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in Map[String,Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 711, 711, 728)
+2020.05.15 02:35:05 INFO  shutting down Metals
+2020.05.15 02:41:06 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+2020.05.15 02:41:09 INFO  time: initialize in 2.86s
+2020.05.15 02:41:10 INFO  skipping build import with status 'Requested'
+2020.05.15 02:41:10 INFO  no build target: using presentation compiler with only scala-library
+2020.05.15 02:41:18 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 03:17:21 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\Naziya\Desktop\PL\cs320'
+2020.05.15 03:17:22 INFO  time: initialize in 0.36s
+2020.05.15 03:17:26 INFO  skipping build import with status 'Requested'
+2020.05.15 03:17:26 INFO  no build target: using presentation compiler with only scala-library
+2020.05.15 03:17:29 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 03:17:29 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala
+2020.05.15 03:17:41 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 12:09:41 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 12:19:40 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 13:57:20 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+??? 15, 2020 1:57:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2099
+2020.05.15 14:00:39 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 14:00:53 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala' because it doesn't belong to a build target.
+2020.05.15 14:00:53 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 14:03:22 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 14:05:23 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex03\ex03\package.scala
+2020.05.15 14:26:26 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 14:26:47 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 1309, 1309, 1321)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in List[String]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 1134, 1134, 1146)
+2020.05.15 17:09:21 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 17:09:21 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 17:12:53 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 17:15:49 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\Exercise05.scala
+2020.05.15 19:36:54 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 21:06:26 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 21:18:38 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.15 21:18:38 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\ex05\package.scala' because it doesn't belong to a build target.
+2020.05.15 21:25:08 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in List[Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 540, 540, 550)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in Map[String,Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 936, 936, 953)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in List[Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 540, 540, 550)
+something's wrong: no file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala in Map[String,Midterm.this.Expr]RangePosition(file:///c%3A/Users/Naziya/Desktop/PL/cs320/src/main/scala/cs320/midterm/midterm/Midterm.scala, 646, 646, 663)
+2020.05.15 21:25:43 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala' because it doesn't belong to a build target.
+2020.05.15 21:25:43 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 21:26:24 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 21:26:24 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 21:27:10 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 21:29:13 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 21:29:13 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 21:33:28 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 21:33:28 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 22:07:19 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala' because it doesn't belong to a build target.
+2020.05.15 22:07:19 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 22:20:45 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 22:26:47 WARN  code navigation does not work for the file 'C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala' because it doesn't belong to a build target.
+2020.05.15 22:26:47 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\package.scala
+2020.05.15 22:27:44 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 22:28:24 WARN  no build target for: C:\Users\Naziya\Desktop\PL\cs320\src\main\scala\cs320\midterm\midterm\Midterm.scala
+2020.05.15 22:37:55 INFO  shutting down Metals
